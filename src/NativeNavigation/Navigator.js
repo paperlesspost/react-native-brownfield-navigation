@@ -8,8 +8,6 @@ import {
   View,
 } from 'react-native';
 import {AppRegistry} from 'react-native';
-// import { ApolloProvider } from 'react-apollo';
-// import type { Store } from 'redux';
 
 const nativeNavigator = NativeModules.Navigator;
 
